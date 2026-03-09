@@ -10,6 +10,7 @@ Barry Cumbie login/search/sesseion[https://github.com/barrycumbie/bearbot/]
 Person Icon (https://icons.getbootstrap.com/icons/person/)
 Inter font (https://fonts.google.com/selection)
 github Icon (https://icons.getbootstrap.com/icons/github/)
+copiolit 
 
 tagline
 We really know you need wheels
