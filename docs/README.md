@@ -14,20 +14,20 @@ what you used here
 
 We really know you need wheels
 
+deployed app
+https://stephenruelas155-coder.github.io/jubilant-enigma-somthing/index.html
+
+inspirations 
+https://github.com/stephenruelas155-coder/jubilant-enigma-somthing/issues/1
+
+Repo
+https://github.com/stephenruelas155-coder/jubilant-enigma-somthing
+
 ## User Story
 
 As a Bussiness person
 I want to easily find transportation 
 so that when I travel for work I can access a vehical in a new location
-
-deployed app
-https://stephenruelas155-coder.github.io/jubilant-enigma-somthing/index.html
-
-Instpriation 
-https://github.com/stephenruelas155-coder/jubilant-enigma-somthing/issues/1
-
-Repo
-https://github.com/stephenruelas155-coder/jubilant-enigma-somthing
 
 ## code block explantion
 This is how search displays the right cards
